@@ -3,7 +3,7 @@ package edu.cnm.deepdive;
 public class Check {
 
   public static void main(String[] args) {
-    int val = 0 ;
+    int val =0 ;
     digitSum(val);
     System.out.print(val);
   }
